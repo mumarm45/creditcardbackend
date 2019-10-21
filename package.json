@@ -2,9 +2,9 @@
   "name": "node-sandbox",
   "version": "1.0.0",
   "description": "Simple Node Sandbox",
-  "main": "./src/index.js",
+  "main": "main.js",
   "scripts": {
-    "start": "nodemon ./src/index.js "
+    "start": "nodemon ."
   },
   "dependencies": {
     "body-parser": "^1.19.0",
